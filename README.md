@@ -20,7 +20,9 @@ http://ionicframework.com/
 
 maka
 http://www.maka.im/home/index.html
-h5页面在线制作 微店
+h5页面在线制作 
+
+微店
 http://v.vdian.com/vshop/1/CPC/login.php
 
 微社区
@@ -33,8 +35,11 @@ demo8
 http://www.demo8.com/
 http://www.demo8.com/topic/249.html
 
-makeAppicons http://makeappicon.com/
-制作各size的icon 创业课中文社区
+makeAppicons 
+http://makeappicon.com/
+制作各size的icon 
+
+创业课中文社区
 http://startupclass.club/ 
 
 
